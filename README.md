@@ -28,4 +28,5 @@ SQL Server Management Studio
 Link de herramientas:
 
 Visual Studio : https://visualstudio.microsoft.com/es/vs/community/
+
 SQL Server Management Studio : https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
